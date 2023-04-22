@@ -1,6 +1,6 @@
 # Learn Python
 
-## Python Data Structures with Type Annotations
+## Python Type Annotations
 
 | Title         | Code                                                    |
 | ------------- | ------------------------------------------------------- |
