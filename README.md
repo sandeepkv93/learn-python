@@ -15,3 +15,5 @@
 | Any Type      | [any_type.py](type_annotations/any_type.py)             |
 | Callable Type | [callable_type.py](type_annotations/callable_type.py)   |
 | Sequence Type | [sequence_type.py](type_annotations/sequence_type.py)   |
+| TypeVar Type  | [typevar_type.py](type_annotations/typevar_type.py)     |
+| Generic Type  | [generic_type.py](type_annotations/generic_type.py)     |
