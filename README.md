@@ -6,8 +6,9 @@
 | ------------------ | ------------------------------------------------------ |
 | Optional Arguments | [optional_arguments.py](general/optional_arguments.py) |
 | Keyword Arguments  | [keyword_arguments.py](general/keyword_arguments.py)   |
+| Variable Arguments | [variable_arguments.py](general/variable_arguments.py) |
 
-## Python Type Annotations
+## Type Annotations
 
 | Title         | Code                                                    |
 | ------------- | ------------------------------------------------------- |
