@@ -10,3 +10,4 @@
 | Dict Type   | [dict_type.py](type_annotations/dict_type.py)           |
 | Set Type    | [set_type.py](type_annotations/set_type.py)             |
 | Tuple Type  | [tuple_type.py](type_annotations/tuple_type.py)         |
+| Custom Type | [custom_type.py](type_annotations/custom_types.py)      |
