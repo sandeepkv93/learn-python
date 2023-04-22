@@ -13,3 +13,4 @@
 | Custom Type   | [custom_type.py](type_annotations/custom_types.py)      |
 | Optional Type | [optional_type.py](type_annotations/optional_type.py)   |
 | Any Type      | [any_type.py](type_annotations/any_type.py)             |
+| Callable Type | [callable_type.py](type_annotations/callable_type.py)   |
