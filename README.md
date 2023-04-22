@@ -1,6 +1,8 @@
-# Python Data Structures with Type Annotations
+# Learn Python
 
-| Title       | Code                                   |
-| ----------- | -------------------------------------- |
-| Basic Types | [basic_types.py](basic_types.py)       |
-| Functions   | [function_types.py](function_types.py) |
+## Python Data Structures with Type Annotations
+
+| Title       | Code                                                    |
+| ----------- | ------------------------------------------------------- |
+| Basic Types | [basic_types.py](type_annotations/basic_types.py)       |
+| Functions   | [function_types.py](type_annotations/function_types.py) |
