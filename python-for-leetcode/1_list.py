@@ -131,3 +131,22 @@ import array
 
 nums = [1, 2, 3]
 nums_array = array.array("i", nums)
+
+# 29. Sort a list based on a key
+nums = [(1, 2), (3, 1), (2, 3)]
+nums.sort(key=lambda x: x[0])
+print(nums)  # Prints [(1, 2), (2, 3), (3, 1)]
+
+# 30. Sort a string list based on length of string
+strs = ["abc", "a", "ab"]
+strs.sort(key=lambda x: len(x))
+
+# 31. Filter a list
+nums = [1, 2, 3]
+nums = list(filter(lambda x: x > 1, nums))
+print(nums)  # Prints [2, 3]
+
+# 32. Map a list
+nums = [1, 2, 3]
+nums = list(map(lambda x: x * 2, nums))
+print(nums)  # Prints [2, 4, 6]
