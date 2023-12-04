@@ -1,5 +1,6 @@
 from typing import List
 
+
 def binary_search_or_insert_position(nums: List[int], target: int) -> int:
     """
     Binary Search or Insert Position Algorithm
